@@ -1,0 +1,2 @@
+# Only needed for live AWS runs. --demo mode needs nothing.
+boto3>=1.34
